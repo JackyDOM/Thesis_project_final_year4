@@ -1,0 +1,182 @@
+[
+    {
+        "image_path": "finger_dataset\\Five_Finger_Up\\WIN_20250223_22_44_01_Pro.jpg",
+        "true_label": "Five_Finger_Up",
+        "predicted_label": "Five_Finger_Up",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Five_Finger_Up\\WIN_20250223_22_44_05_Pro.jpg",
+        "true_label": "Five_Finger_Up",
+        "predicted_label": "Five_Finger_Up",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Five_Finger_Up\\WIN_20250223_22_44_08_Pro.jpg",
+        "true_label": "Five_Finger_Up",
+        "predicted_label": "Five_Finger_Up",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Five_Finger_Up\\WIN_20250223_22_44_16_Pro.jpg",
+        "true_label": "Five_Finger_Up",
+        "predicted_label": "Five_Finger_Up",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Five_Finger_Up\\WIN_20250223_22_44_18_Pro.jpg",
+        "true_label": "Five_Finger_Up",
+        "predicted_label": "Five_Finger_Up",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Five_Finger_Up\\WIN_20250223_22_44_20_Pro.jpg",
+        "true_label": "Five_Finger_Up",
+        "predicted_label": "Five_Finger_Up",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Four_Finger_Roll\\WIN_20250223_22_50_38_Pro.jpg",
+        "true_label": "Four_Finger_Roll",
+        "predicted_label": "Four_Finger_Roll",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Four_Finger_Roll\\WIN_20250223_22_50_41_Pro.jpg",
+        "true_label": "Four_Finger_Roll",
+        "predicted_label": "Four_Finger_Roll",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Four_Finger_Roll\\WIN_20250223_22_50_45_Pro.jpg",
+        "true_label": "Four_Finger_Roll",
+        "predicted_label": "Three_Finger_Start",
+        "correct": false
+    },
+    {
+        "image_path": "finger_dataset\\Four_Finger_Roll\\WIN_20250223_22_50_49_Pro.jpg",
+        "true_label": "Four_Finger_Roll",
+        "predicted_label": "Four_Finger_Roll",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Four_Finger_Roll\\WIN_20250223_22_50_52_Pro.jpg",
+        "true_label": "Four_Finger_Roll",
+        "predicted_label": "Four_Finger_Roll",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Four_Finger_Roll\\WIN_20250223_22_50_56_Pro.jpg",
+        "true_label": "Four_Finger_Roll",
+        "predicted_label": "Five_Finger_Up",
+        "correct": false
+    },
+    {
+        "image_path": "finger_dataset\\One_Finger_Right\\WIN_20250223_22_51_57_Pro.jpg",
+        "true_label": "One_Finger_Right",
+        "predicted_label": "One_Finger_Right",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\One_Finger_Right\\WIN_20250223_22_52_00_Pro.jpg",
+        "true_label": "One_Finger_Right",
+        "predicted_label": "One_Finger_Right",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\One_Finger_Right\\WIN_20250223_22_52_03_Pro.jpg",
+        "true_label": "One_Finger_Right",
+        "predicted_label": "Two_Finger_Left",
+        "correct": false
+    },
+    {
+        "image_path": "finger_dataset\\One_Finger_Right\\WIN_20250223_22_52_06_Pro.jpg",
+        "true_label": "One_Finger_Right",
+        "predicted_label": "One_Finger_Right",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\One_Finger_Right\\WIN_20250223_22_52_08_Pro.jpg",
+        "true_label": "One_Finger_Right",
+        "predicted_label": "One_Finger_Right",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\One_Finger_Right\\WIN_20250223_22_52_12_Pro.jpg",
+        "true_label": "One_Finger_Right",
+        "predicted_label": "One_Finger_Right",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Three_Finger_Start\\WIN_20250223_22_52_45_Pro.jpg",
+        "true_label": "Three_Finger_Start",
+        "predicted_label": "Three_Finger_Start",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Three_Finger_Start\\WIN_20250223_22_52_47_Pro.jpg",
+        "true_label": "Three_Finger_Start",
+        "predicted_label": "Three_Finger_Start",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Three_Finger_Start\\WIN_20250223_22_52_49_Pro.jpg",
+        "true_label": "Three_Finger_Start",
+        "predicted_label": "Three_Finger_Start",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Three_Finger_Start\\WIN_20250223_22_52_52_Pro.jpg",
+        "true_label": "Three_Finger_Start",
+        "predicted_label": "Three_Finger_Start",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Three_Finger_Start\\WIN_20250223_22_52_53_Pro.jpg",
+        "true_label": "Three_Finger_Start",
+        "predicted_label": "Three_Finger_Start",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Three_Finger_Start\\WIN_20250223_22_52_55_Pro.jpg",
+        "true_label": "Three_Finger_Start",
+        "predicted_label": "Two_Finger_Left",
+        "correct": false
+    },
+    {
+        "image_path": "finger_dataset\\Two_Finger_Left\\WIN_20250223_22_53_33_Pro.jpg",
+        "true_label": "Two_Finger_Left",
+        "predicted_label": "Two_Finger_Left",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Two_Finger_Left\\WIN_20250223_22_53_35_Pro.jpg",
+        "true_label": "Two_Finger_Left",
+        "predicted_label": "Two_Finger_Left",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Two_Finger_Left\\WIN_20250223_22_53_37_Pro.jpg",
+        "true_label": "Two_Finger_Left",
+        "predicted_label": "Two_Finger_Left",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Two_Finger_Left\\WIN_20250223_22_53_39_Pro.jpg",
+        "true_label": "Two_Finger_Left",
+        "predicted_label": "Two_Finger_Left",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Two_Finger_Left\\WIN_20250223_22_53_41_Pro.jpg",
+        "true_label": "Two_Finger_Left",
+        "predicted_label": "Two_Finger_Left",
+        "correct": true
+    },
+    {
+        "image_path": "finger_dataset\\Two_Finger_Left\\WIN_20250223_22_53_42_Pro.jpg",
+        "true_label": "Two_Finger_Left",
+        "predicted_label": "Two_Finger_Left",
+        "correct": true
+    }
+]
